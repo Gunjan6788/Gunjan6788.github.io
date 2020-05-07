@@ -1,0 +1,70 @@
+.profile{
+    background-color: #88B9D7;
+    height: 200px;
+    width: 200px
+}
+
+.img{
+    height: 200px;
+    width: 200px 
+}
+
+.small-circle {
+    background-color: #88B9D7;
+    height: 30px;
+    width: 30px;
+    margin-top: 170px
+}
+
+.name {
+    color:#3C5E9B;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.profile-name {
+    color: #707070;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-align: center;
+    font-size:large;
+}
+
+.location {
+    font-size: large;
+    color: #939393;
+    font-weight: 500;
+}
+
+.description {
+    color: #424242;
+}
+
+.social-media {
+    height:60px;
+    width:60px
+}
+
+.box{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#linked-in {
+    height: 100px;
+    width:100px;
+}
+
+button {
+    background-image: linear-gradient(to right,  #88B9D7, #3C5E9B);
+}
+
+.technology {
+    font: 2.0em "Fira Sans", sans-serif;    
+}
+
+.icons {
+    height:150px;
+    width:150px
+}
