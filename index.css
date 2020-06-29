@@ -89,13 +89,20 @@ button {
 .small-icon {
     height:50px;
     width:50px;
-    margin: 10px;
+    margin: 5px;
 }
+
+/* .static-div {
+    height:160px;
+    width:160px;
+    border:0.6em #3C5E9B inset;
+} */
 
 .static-div {
     height:160px;
     width:160px;
-    border:0.6em #3C5E9B inset;
+    border:solid #3C5E9B;
+    border-width: 20px;
 }
 
 .text-color{
