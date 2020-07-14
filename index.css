@@ -42,18 +42,13 @@
 }
 
 .social-media {
-    height:60px;
-    width:60px
+    height:50px;
+    width:50px
 }
 
 .box{
     margin-left: 100px;
     margin-right: 100px;
-}
-
-#linked-in {
-    height: 100px;
-    width:100px;
 }
 
 button {
@@ -77,7 +72,7 @@ button {
 }
 
 .card-over:hover{
-    box-shadow: -1px 0px 3em #3C5E9B;
+    box-shadow: -1px 0px 2em #3C5E9B;
 }
 
 .btn-git {
@@ -87,8 +82,8 @@ button {
 }
 
 .small-icon {
-    height:50px;
-    width:50px;
+    height:40px;
+    width:40px;
     margin: 5px;
 }
 
@@ -111,5 +106,6 @@ button {
 
 .proficiency {
     height:250px;
-    width:300px
+    width:260px;
+    margin: 30px;
 }
