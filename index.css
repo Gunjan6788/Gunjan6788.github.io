@@ -4,7 +4,8 @@
 }
 
 .profile-border{
-    border: 10px solid #88B9D7;
+    background: -webkit-linear-gradient(-225deg, #30D2BE 0%, #3584A7 51%, #473B7B 100%);
+    padding: 10px;   
 }
 
 .img{
@@ -13,7 +14,7 @@
 }
 
 .small-circle {
-    background-color: #88B9D7;
+    background: -webkit-linear-gradient(-225deg, #30D2BE 0%, #3584A7 51%, #473B7B 100%);
     height: 30px;
     width: 30px;
     margin-top: 170px
@@ -55,7 +56,7 @@
 }
 
 button {
-    background-image: linear-gradient(to right,  #88B9D7, #3C5E9B);
+    background: -webkit-linear-gradient(-225deg, #30D2BE 0%, #3584A7 51%, #473B7B 100%);
 }
 
 .technology {
@@ -99,7 +100,7 @@ button {
 .static-div {
     height:160px;
     width:160px;
-    border:solid #3C5E9B;
+    border:solid #473B7B;
     border-width: 10px;
 }
 
